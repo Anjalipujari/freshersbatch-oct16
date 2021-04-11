@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 25px;
+}
+</style>
+</head>
+<body>
+
+<h1>WELCOME TO MY WEBSITE</h1>
+<p>Details are given below
+   please visit 
+</p>
+<p>Sign in or Sign up</p>
+
+</body>
+</html>

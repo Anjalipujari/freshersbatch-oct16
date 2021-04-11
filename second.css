@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<h1>CSS TUTORIAL</h1>
+<p>CSS is the language we use to style an HTML document</p>
+<p>CSS describes how HTML elements should be displayed.</p>
+<p>This tutorial will teach you CSS from basic to advanced.</p>
+<p>This tutorial will also inculde some assignments</p>
+
+</body>
+</html>
+
