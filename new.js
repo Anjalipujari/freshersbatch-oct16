@@ -10,6 +10,7 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 <p>Hello </p>
+<p>lets get started</p>
 </body>
 </html> 
 

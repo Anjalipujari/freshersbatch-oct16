@@ -3,6 +3,8 @@
 <body>
 
 <h2>What Can JavaScript Do?</h2>
+<h2>What Can JavaScript Do?</h2>
+
 <p>use the button for more information</p>
 <p id="demo">JavaScript can change the style of an HTML element.</p>
 
